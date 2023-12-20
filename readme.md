@@ -1,4 +1,4 @@
-This project is my another computer architecture assigment in XJTU: to implement a dynamic dispatch simulator using Tomasulo algorithm.
+This project is my another computer architecture assignment in XJTU: to implement a dynamic dispatch simulator using Tomasulo algorithm.
 
 To run this project, do these following:
 
